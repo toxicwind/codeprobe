@@ -1,3 +1,5 @@
+> Snapshot - sjarmak/codeprobe at 2495927 (2026-09-09), mirrored under toxicwind. Upstream is canonical for the tool itself.
+
 # CodeProbe
 
 Turn your repository's own merged pull requests into coding-agent evaluations,
